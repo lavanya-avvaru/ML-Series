@@ -1,4 +1,4 @@
-# Breast Cancer Classification using SVM 🧬
+# Breast Cancer Classification using SVM 
 
 ## 📌 Objective
 Build a machine learning model to classify tumors as **Malignant** or **Benign** using Support Vector Machine (SVM).
