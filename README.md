@@ -1,4 +1,4 @@
-# ML Series — Learning Journey
+# ML Series
 
 A structured, hands-on Machine Learning learning series. Every day covers one concept — theory + implementation in Python.
 
